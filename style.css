@@ -54,7 +54,7 @@ img {
   display: block;
   margin: 0 auto;
   margin-top: 5%;
-  animation: spin 3s infinite;
+  animation: spin 2s infinite;
 }
 
 @keyframes spin {
